@@ -1,2 +1,10 @@
 # EDA-Importacion-Exportacion
-Se realiza un exploratory data analysis sobre data set de importacion/exportacion/consumo/produccion.
+
+Reakuzacuib de exploratory data analysis sobre data set de importacion/exportacion/consumo/produccion.
+
+Se utilizaron las librerias:
+
+-Numpy\
+-Pandas\
+-Matplotlib\
+-Seaborn
